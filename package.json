@@ -1,0 +1,30 @@
+{
+  "name": "mobile_hewe_simongamepwa",
+  "version": "1.0.0",
+  "description": "homework2 simongamePWA",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "browser-sync start --server ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helenewb/simongamePWA.git"
+  },
+  "keywords": [
+    "PWA",
+    "javascript",
+    "WCIS"
+  ],
+  "author": "hewe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helenewb/simongamePWA/issues"
+  },
+  "homepage": "https://github.com/helenewb/simongamePWA#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.5"
+  }
+}
